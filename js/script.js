@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const eventos = [
         { id: '202501', titulo: 'Enero 2025 - Lluvia', archivo: 'eventos/202501.html' },
         { id: '202502', titulo: 'Febrero 2025 - Lluvia', archivo: 'eventos/202502.html' },
-        { id: '202503', titulo: 'Marzo 2025 - Lluvia', archivo: 'eventos/202503.html' },
+        { id: '20250307', titulo: '7/3/2025 - Lluvia extrema en Bahia Blanca', archivo: 'eventos/20250307.html' },
         // Agrega más eventos según sea necesario
     ];
 
